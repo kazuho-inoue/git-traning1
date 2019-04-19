@@ -1,1 +1,2 @@
-# git-traning1
+# git-traning
+GitKrakenです
